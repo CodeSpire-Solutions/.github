@@ -1,5 +1,5 @@
 # Desription
-This is the organisation behind the KUSA (Konfirmations Unterschriften Sammel) App. Feel free to join our development team.
+We are a little coding organization currently consisting out of 1 dev. We are working on a wide variaty on project, for example: Android Apps, Windows WinUI and WPF Apps, Angular Projects and more.
 ## Our latest Project
 [Intranet-Dashboard](https://github.com/CodeSpire-Solutions/Intranet-Dashboard)
 ##
