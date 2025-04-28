@@ -1,7 +1,7 @@
 # Desription
 We are a little coding organization currently consisting out of 1 dev. We are working on a wide variaty on project, for example: Android Apps, Windows WinUI and WPF Apps, Angular Projects and more.
 # Planned next Projects
-[NyxisOS](nyxisos.rf.gd), a custom Android AOSP ROM (influenced by ArcaneOS or AnomOS [Link](https://www.xda-developers.com/fbi-backdoor-pixel-arcaneos-anom/))
+[NyxisOS](https://nyxisos.rf.gd), a custom Android AOSP ROM (influenced by ArcaneOS or AnomOS [Link](https://www.xda-developers.com/fbi-backdoor-pixel-arcaneos-anom/))
 ## Our latest Project
 [Intranet-Dashboard](https://github.com/CodeSpire-Solutions/Intranet-Dashboard)
 ##
