@@ -5,4 +5,4 @@ We are a little coding organization currently consisting out of 1 dev. We are wo
 ##
 Feel free to ask Questions in the Discussions Tab.
 ##
-You can contact us via Mail: [Info-Mailbox](mailto:mail@kusa-app.rf.gd?subject=[GitHub])
+You can contact us via Mail: [Info-Mailbox](mailto:mail@codespiresolutions.digital?subject=[GitHub])
