@@ -5,6 +5,6 @@ We are a little coding organization currently consisting out of 1 dev. We mostly
 ##
 Feel free to ask Questions in the Discussions Tab.
 ## Socials
--Get our apps on [Google Play](https://play.google.com/store/apps/dev?id=8372133258499339213&hl=en-US).
+Get our apps on [Google Play](https://play.google.com/store/apps/dev?id=8372133258499339213&hl=en-US).
 ##
 You can contact us via Mail: [mail@codespiresolutions.digital](mailto:mail@codespiresolutions.digital?subject=[GitHub])
